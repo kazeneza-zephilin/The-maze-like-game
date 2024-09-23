@@ -21,7 +21,7 @@ This creates the executable file `raycast` (which is currently in this GitHub re
 ![Maze_game](./images/Maze_game.png)
 
 
-## Reference
+### Reference
 - [lazyfoo](http://lazyfoo.net/tutorials/SDL/index.php#Event%20Driven%20Programming)
 - [geeksforgeeks](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/)
 - [permadi.com](https://permadi.com/1996/05/ray-casting-tutorial-1/)
