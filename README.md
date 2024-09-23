@@ -4,7 +4,7 @@ The maze project is an adaptation of the `Wolfenstein 1981` game. The project us
 ## Technologies Used
 - [**C Programming Language**](https://linuxconfig.org/how-to-install-gcc-the-c-compiler-on-ubuntu-20-04-lts-focal-fossa-linux) - The project was done using C programming language. The language is installed upon the installation of the gcc compiler on your Operating System (In this case, a Linux distro).
 - [**SDL2**](https://wiki.libsdl.org/Installation) - Known as `Simple DirectMedia Layer` is a cross-platform software development library designed to provide a hardware abstraction layer for computer multimedia hardware components. Software developers can use it to write high-performance computer games and other multimedia applications that can run on many operating systems such as Android, iOS, Linux, macOS, and Windows. ([Wikipedia](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)). In simple terms, it creates windows for any kind of media file, giving each window the ability to interact with the hardware components of a system(i.e Keyboard and mouse) and also the ability to quit, maximize or minimize each media file/application. This was used as the window that holds the entire functionality of the project.
-- [**Ubuntu 20.04LTS**](https://ubuntu.com/download/desktop) -
+- [**Ubuntu 14.04LTS**](https://ubuntu.com/download/desktop) -
 The operating system used in this project. Ubuntu is a distro for the Linux Operating system.
 
 ## Usage
